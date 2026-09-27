@@ -1,0 +1,22 @@
+style {
+    
+    background-image:linear-gradient(to bottom, orange, blue);
+}
+.font {
+    font-family: 'Times New Roman', Times, serif;
+}
+.spaced-list li {
+    margin-inline: 20px;
+}
+.navbar { 
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: auto;
+}
+
+li {
+    display:inline-block; 
+    width: 150px;
+    line-height: 15;
+}
